@@ -41,7 +41,11 @@ pip install -r requirements.txt
 
 ## Running the code
 
-Pick the type of dataset to be analyzed, and use the `run_classifier` method in ```classifiers.py``` to train a classifier and evaluate the performance. 
+### Embedding generation
+Use https://github.com/abenton/wgcca with ```user_views.tsv``` as input to generate the multi-view user embeddings using WGCCA.
+
+### Classification
+Pick the type of dataset to be analyzed, and use the `run_classifier` method in ```classifiers.py``` to train a classifier and evaluate the performance.
 
 # License 
 
