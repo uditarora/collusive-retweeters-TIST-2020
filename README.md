@@ -5,7 +5,7 @@ This is the code and the dataset for the paper titled
 
 >Analyzing and Detecting Collusive Users Involved in Blackmarket Retweeting Activities. *Udit Arora\*, Hridoy Sankar Dutta\*, Brihi Joshi, Aditya Chetan, Tanmoy Chakraborty*
 
-submitted at [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/journal/tist).
+published at [ACM Transactions on Intelligent Systems and Technology](https://dl.acm.org/doi/abs/10.1145/3380537).
 
 # Quick Start
 
